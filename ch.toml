@@ -1,0 +1,6 @@
+[input]
+base_directory = "zh-cn"
+url_prefix = "https://www.gutenberg.org/files/1404/1404-h/1404-h.htm#link2H_4_"
+files = [
+    {path = "beijing.md", url = "0001", title = "北京"},
+]
